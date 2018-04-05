@@ -14,8 +14,10 @@ $(".fadein").hover(function(){
 clearInterval(timer);
 isFirst = true;
 });
-});
+
 
 $("#autor").mouseenter(function(){
   $(".student").slideToggle("slow");
 }); 
+
+});
