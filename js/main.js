@@ -1,4 +1,4 @@
-jQuery("document").ready(function(){
+$(document).ready(function(){
   var isFirst = true;
 
 $('.fadein img:gt(0)').hide();
